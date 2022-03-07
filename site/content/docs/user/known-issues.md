@@ -41,6 +41,7 @@ description: |-
 * [Couldn't find an alternative telinit implementation to spawn](#docker-init-daemon-config)
 * [Fedora](#fedora) (various)
 * [Failed to get rootfs info](#failed-to-get-rootfs-info--stat-failed-on-dev)
+* [Failure to Create Cluster with Docker Desktop as Container Runtime](#failure-to-create-cluster-with-docker-desktop-as-container-runtime)
 
 ## Troubleshooting Kind
 
